@@ -1,0 +1,22 @@
+.row {
+	background-color: #ddd;
+	margin: 1.5em 0.5em;
+}
+.navbar-nav {
+	margin: 0px -15px;
+	background-color: #ddd;
+}
+li {
+	border-left: 1px solid #aaa;
+	border-right: 1px solid #aaa;
+}
+li:nth-child(1) {
+	border-top: 1px solid #aaa;
+}
+li:nth-child(2) {
+	border-top: 1px solid #aaa;
+	border-bottom: 1px solid #aaa;
+}
+li:nth-child(3) {
+	border-bottom: 1px solid #aaa;
+}
